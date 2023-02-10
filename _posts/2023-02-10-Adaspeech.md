@@ -8,11 +8,8 @@ tags: [Deep Learning, Speech, TTS]
 comments: true
 ---
 
- **Adaspeech Synthesize samples**
+This is a unofficial PyTorch implementation of Microsoft's text-to-speech system AdaSpeech: Adaptive Text to Speech for Custom Voice. This project is based on ming024's implementation of FastSpeech. Feel free to use/modify the code.
 
-This is a unofficial PyTorch implementation of Microsoft's text-to-speech system AdaSpeech: Adaptive Text to Speech for Custom Voice.
-
-This project is based on ming024's implementation of FastSpeech. Feel free to use/modify the code.
 
 <center>
   <img
@@ -20,7 +17,9 @@ This project is based on ming024's implementation of FastSpeech. Feel free to us
   />
 </center>
 
-# LJSpeech
+# Adaspeech Synthesize samples
+
+## LJSpeech
 
 
 <table>
@@ -72,7 +71,7 @@ This project is based on ming024's implementation of FastSpeech. Feel free to us
 
 <br>
 
-# KSS dataset
+## KSS dataset
 
 <table>
     <tbody><tr>
