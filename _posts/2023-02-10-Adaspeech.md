@@ -95,7 +95,7 @@ This project is based on ming024's implementation of FastSpeech. Feel free to us
   </tbody></table>
 </center>
 
-<div><b>Text</b>: <em>?? ??? ? ??? ????? ???
+<div><b>Text</b>: <em>이달 말까지 이 쿠폰을 사용하셔야 합니다
     </em></div>
 <br>
 <center>
@@ -119,7 +119,7 @@ This project is based on ming024's implementation of FastSpeech. Feel free to us
   </tbody></table>
 </center>
 
-<div><b>Text</b>: <em>??? ?? ???? ??? ? ? ??? ? ???
+<div><b>Text</b>: <em>어떻게 하면 소비자와 생산자 둘 다 만족할 수 있을까
     </em></div>
 
 <br>
