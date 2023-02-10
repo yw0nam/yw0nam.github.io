@@ -2,7 +2,7 @@
 layout: post
 title: Adaspeech
 subtitle: : Adaptive Text to Speech for Custom Voice
-cover-img: ./../_data/2023/2023_02_10/model.png
+cover-img: /assets//2023/2023_02_10/model.png
 gh-repo: yw0nam/Adaspeech
 gh-badge: [star, fork, follow]
 tags: [Deep Learning, Speech, TTS]
@@ -17,7 +17,7 @@ This project is based on ming024's implementation of FastSpeech. Feel free to us
 
 <center>
   <img
-    src="./../_data/2023/2023_02_10/model.png"
+    src="/assets//2023/2023_02_10/model.png"
   />
 </center>
 
@@ -32,13 +32,13 @@ This project is based on ming024's implementation of FastSpeech. Feel free to us
     </tr>
     <tr>
       <td style="text-align: center"><audio controls="controls">
-          <source src="../_data/2023/2023_02_10/wav/LJ013-0238.wav" autoplay="">
+          <source src="/assets//2023/2023_02_10/wav/LJ013-0238.wav" autoplay="">
         </audio></td>
       <td style="text-align: center"><audio controls="controls">
-          <source src="./../_data/2023/2023_02_10/wav/LJ013-0238_original_mel.wav" autoplay="">
+          <source src="/assets//2023/2023_02_10/wav/LJ013-0238_original_mel.wav" autoplay="">
         </audio></td>
       <td style="text-align: center"><audio controls="controls">
-          <source src="./../_data/2023/2023_02_10/wav/LJ013-0238_synthesized.wav" autoplay="">
+          <source src="/assets//2023/2023_02_10/wav/LJ013-0238_synthesized.wav" autoplay="">
         </audio></td>
     </tr>
   </tbody></table>
@@ -58,13 +58,13 @@ This project is based on ming024's implementation of FastSpeech. Feel free to us
     </tr>
     <tr>
       <td style="text-align: center"><audio controls="controls">
-          <source src="../_data/2023/2023_02_10/wav/LJ028-0146.wav" autoplay="">
+          <source src="/assets//2023/2023_02_10/wav/LJ028-0146.wav" autoplay="">
         </audio></td>
       <td style="text-align: center"><audio controls="controls">
-          <source src="../_data/2023/2023_02_10/wav/LJ028-0146_original_mel.wav" autoplay="">
+          <source src="/assets//2023/2023_02_10/wav/LJ028-0146_original_mel.wav" autoplay="">
         </audio></td>
       <td style="text-align: center"><audio controls="controls">
-          <source src="./../_data/2023/2023_02_10/wav/LJ028-0146_synthesized.wav" autoplay="">
+          <source src="/assets//2023/2023_02_10/wav/LJ028-0146_synthesized.wav" autoplay="">
         </audio></td>
     </tr>
   </tbody></table>
@@ -86,13 +86,13 @@ This project is based on ming024's implementation of FastSpeech. Feel free to us
     </tr>
     <tr>
       <td style="text-align: center"><audio controls="controls">
-          <source src="../_data/2023/2023_02_10/wav/3_4121.wav" autoplay="">
+          <source src="/assets//2023/2023_02_10/wav/3_4121.wav" autoplay="">
         </audio></td>
       <td style="text-align: center"><audio controls="controls">
-          <source src="./../_data/2023/2023_02_10/wav/3_4121_original_mel.wav" autoplay="">
+          <source src="/assets//2023/2023_02_10/wav/3_4121_original_mel.wav" autoplay="">
         </audio></td>
       <td style="text-align: center"><audio controls="controls">
-          <source src="./../_data/2023/2023_02_10/wav/3_4121_synthesized.wav" autoplay="">
+          <source src="/assets//2023/2023_02_10/wav/3_4121_synthesized.wav" autoplay="">
         </audio></td>
     </tr>
   </tbody></table>
@@ -110,13 +110,13 @@ This project is based on ming024's implementation of FastSpeech. Feel free to us
     </tr>
     <tr>
       <td style="text-align: center"><audio controls="controls">
-          <source src="../_data/2023/2023_02_10/wav/4_4416.wav" autoplay="">
+          <source src="/assets//2023/2023_02_10/wav/4_4416.wav" autoplay="">
         </audio></td>
       <td style="text-align: center"><audio controls="controls">
-          <source src="./../_data/2023/2023_02_10/wav/4_4416_original_mel.wav" autoplay="">
+          <source src="/assets//2023/2023_02_10/wav/4_4416_original_mel.wav" autoplay="">
         </audio></td>
       <td style="text-align: center"><audio controls="controls">
-          <source src="./../_data/2023/2023_02_10/wav/4_4416_synthesized.wav" autoplay="">
+          <source src="/assets//2023/2023_02_10/wav/4_4416_synthesized.wav" autoplay="">
         </audio></td>
     </tr>
   </tbody></table>
