@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Adaspeech
-subtitle: : Adaptive Text to Speech for Custom Voice
-cover-img: /assets//2023/2023_02_10/model.png
+subtitle: Adaptive Text to Speech for Custom Voice
 gh-repo: yw0nam/Adaspeech
 gh-badge: [star, fork, follow]
 tags: [Deep Learning, Speech, TTS]
-comments: true
 ---
+
 
  **Adaspeech Synthesize samples**
 
@@ -23,7 +22,7 @@ This project is based on ming024's implementation of FastSpeech. Feel free to us
 
 # LJSpeech
 
-<center>
+
 <table>
     <tbody><tr>
       <th style="text-align: center">LJ013-0238 (Ground-Truth) </th>
@@ -42,14 +41,13 @@ This project is based on ming024's implementation of FastSpeech. Feel free to us
         </audio></td>
     </tr>
   </tbody></table>
-</center>
+
 
 <div><b>Text</b>: <em>he was coachman to a gentleman at roehampton. one day he went into a pawnbroker's at wandsworth, and bought a pair of breeches on credit.
     </em></div>
 
 <br>
 
-<center>
 <table>
     <tbody><tr>
       <th style="text-align: center">LJ028-0146 (Ground-Truth) </th>
@@ -68,7 +66,6 @@ This project is based on ming024's implementation of FastSpeech. Feel free to us
         </audio></td>
     </tr>
   </tbody></table>
-</center>
 
 <div><b>Text</b>: <em>as fast as they dug the moat, the soil which they got from the cutting was made into bricks,
     </em></div>
@@ -77,7 +74,6 @@ This project is based on ming024's implementation of FastSpeech. Feel free to us
 
 # KSS dataset
 
-<center>
 <table>
     <tbody><tr>
       <th style="text-align: center">3_4121 (Ground-Truth) </th>
@@ -96,12 +92,11 @@ This project is based on ming024's implementation of FastSpeech. Feel free to us
         </audio></td>
     </tr>
   </tbody></table>
-</center>
 
 <div><b>Text</b>: <em>이달 말까지 이 쿠폰을 사용하셔야 합니다
     </em></div>
 <br>
-<center>
+
 <table>
     <tbody><tr>
       <th style="text-align: center">4_4416 (Ground-Truth) </th>
@@ -120,7 +115,6 @@ This project is based on ming024's implementation of FastSpeech. Feel free to us
         </audio></td>
     </tr>
   </tbody></table>
-</center>
 
 <div><b>Text</b>: <em>어떻게 하면 소비자와 생산자 둘 다 만족할 수 있을까
     </em></div>
