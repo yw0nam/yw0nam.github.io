@@ -2,6 +2,7 @@
 layout: post
 title: Adaspeech
 subtitle: : Adaptive Text to Speech for Custom Voice
+cover-img: ./../_data/2023/2023_02_10/model.png
 gh-repo: yw0nam/Adaspeech
 gh-badge: [star, fork, follow]
 tags: [Deep Learning, Speech, TTS]
