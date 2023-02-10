@@ -7,7 +7,9 @@ gh-badge: [star, fork, follow]
 tags: [Deep Learning, Speech, TTS]
 comments: true
 ---
-# Adaspeech Synthesize samples
+
+ **Adaspeech Synthesize samples**
+
 This is a unofficial PyTorch implementation of Microsoft's text-to-speech system AdaSpeech: Adaptive Text to Speech for Custom Voice.
 
 This project is based on ming024's implementation of FastSpeech. Feel free to use/modify the code.
