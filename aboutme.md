@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Toward Cortana, Deep Learning Researcher
+subtitle: Toward Conversational AI, Deep Learning Researcher
 ---
 
 
 
 # Research Interest
 
-For developing Cortana, i'm interested in computer vision, Natural Language processing and speech processing.
+For developing Conversational AI, i'm interested in computer vision, Natural Language processing and speech processing.
 
 # EDUCATION
 - 2021 - 2023 SAHIST, SungKyunKwan University, Korea
